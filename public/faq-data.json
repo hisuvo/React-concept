@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "faqtion": "What is your return policy?",
+        "answer": "You can return any item within 30 days of purchase as long as it is in its original condition."
+    },
+    {
+        "id": 2,
+        "faqtion": "How long does shipping take?",
+        "answer": "Standard shipping takes 3-5 business days, while express shipping takes 1-2 business days."
+    },
+    {
+        "id": 3,
+        "faqtion": "What payment methods do you accept?",
+        "answer": "We accept credit cards, debit cards, and PayPal."
+    },
+    {
+        "id": 4,
+        "faqtion": "Can I change my order after placing it?",
+        "answer": "Yes, you can modify your order within 1 hour of placing it by contacting our support team."
+    },
+    {
+        "id": 5,
+        "faqtion": "Do you ship internationally?",
+        "answer": "Yes, we ship to most countries worldwide. Shipping fees and times vary by destination."
+    },
+    {
+        "id": 6,
+        "faqtion": "How can I track my order?",
+        "answer": "Once your order is shipped, we will send you a tracking link via email."
+    },
+    {
+        "id": 7,
+        "faqtion": "Is my personal information safe?",
+        "answer": "Yes, we use encryption and secure systems to protect your personal information."
+    },
+    {
+        "id": 8,
+        "faqtion": "Can I cancel my order?",
+        "answer": "You can cancel your order within 2 hours of purchase by contacting support."
+    },
+    {
+        "id": 9,
+        "faqtion": "What should I do if I received a damaged item?",
+        "answer": "Please contact our support team within 48 hours of delivery for assistance with a damaged item."
+    },
+    {
+        "id": 10,
+        "faqtion": "Do you offer gift wrapping?",
+        "answer": "Yes, gift wrapping is available at checkout for an additional fee."
+    }
+]

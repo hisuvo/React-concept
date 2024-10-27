@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.toggle_btn {
+    padding: 1rem 1.4rem;
+    border: 2px soid greenyellow;
+    background: #000;
+    color: #fff;
+}
+
+.toggle_btn:hover {
+    background: #003;
+
+}
