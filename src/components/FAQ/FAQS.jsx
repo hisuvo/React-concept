@@ -11,7 +11,8 @@ const FAQS = () => {
     }, [])
 
     return (
-        <div>
+        <div className="max-w-[700px] mx-auto p-6 border bg-gray-100 md:mt-16">
+            <h2 className="text-2xl font-bold mb-6">FAQS:</h2>
             {
                 faqs.map((faq, index) => <FAQ key={index} {...faq} />)
             }
