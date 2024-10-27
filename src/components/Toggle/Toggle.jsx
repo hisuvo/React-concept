@@ -3,7 +3,6 @@ import { useState } from "react"
 const Toggle = () => {
     const [toggle, setToggle] = useState(true)
 
-    console.log(toggle)
 
     return (
         <>

@@ -1,12 +1,14 @@
 import './App.css'
-import FAQS from './components/FAQ/FAQS'
+import Toggle from './components/Toggle/Toggle'
 
 
 function App() {
 
   return (
     <>
-      <FAQS />
+      {/* <Toggle /> */}
+      {/* <FAQS /> */}
+      <Toggle />
     </>
   )
 }
